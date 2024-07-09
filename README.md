@@ -1,2 +1,2 @@
-# Atividades-POO
+# POO
 Entrega de atividades
